@@ -51,8 +51,8 @@ input::placeholder{
     font-size: 3em;
     line-height: 1.2em;
     color: white;
-    <div class="output-container">
+}
+<div class="output-container">
     <h2 class="city_name">New York</h2>
     <p class="temperature">34</p>
-    </div>
-}
+</div>
